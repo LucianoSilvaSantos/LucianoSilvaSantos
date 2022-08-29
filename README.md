@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-<!--
+
 **LucianoSilvaSantos/LucianoSilvaSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 Estou trabalhando atualmente como Consultor em Projetos de Desenvolvimento de Software
 - 🌱 Estou atualmente estudando Ciência de Dados na Data Science Academy
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
