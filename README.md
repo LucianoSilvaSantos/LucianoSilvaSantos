@@ -39,7 +39,7 @@ Aqui estão algumas idéias para começar:
 
 <!--
 
-Gerador de dataset (informações para teste) --> https://www.mockaroo.com/
+Gerador de dataset (informações para teste) https://www.mockaroo.com/
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -53,6 +53,5 @@ link whatsapp = https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge
 links para texto no markdown = https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
 
 link github stats = https://github.com/anuraghazra/github-readme-stats
-
 
 -->
