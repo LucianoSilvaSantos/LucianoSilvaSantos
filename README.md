@@ -5,7 +5,7 @@
 
 Aqui estão algumas idéias para começar:
 
-- 👨🏾‍🎓 Mestrando em **Engenharia Informática e Tecnologia Web** na **UTAD** (Universidade de Trás-os-Montes e Alto Douro - Portugal)
+- 👨🏾‍🎓 Cursando Curso Superior de **Tecnologia de Ciência dos Dados** na **UFMS** (Universidade Federal de Mato Grosso do Sul)
 - 🔭 Trabalho como Consultor Autônomo em Projetos de Sustentação e Desenvolvimento de Software
 - 🌱 Atualmente estudo Ciência de Dados na **Data Science Academy** vou disponibilizar alguns projetos de estudo em meu GitHub
 
